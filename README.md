@@ -1,12 +1,12 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">Arpan Bhattacharya</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+![wp5683360-4k-anime-scenery-wallpapers](https://github.com/user-attachments/assets/5703887a-1e16-4b4f-8cd1-cb847c9a9e67)
+
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
-
+I am Arpan Bhattacharya, I am pursuing a Btech in AI&DS from IIIT Sri City, I love to explore new things.
 </p>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
