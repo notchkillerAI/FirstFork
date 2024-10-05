@@ -12,7 +12,7 @@ I am Arpan Bhattacharya, I am pursuing a Btech in AI&DS from IIIT Sri City, I lo
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   <li><strong>Instagram</strong>: <a href="https://instagram.com/" style="color: #2980b9;"></a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/" style="color: #2980b9;"></a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/arpan-bhattacharya-514026324/" style="color: #2980b9;">@arpanbhattacharya</a></li>
   <li><strong>GitHub</strong>: <a href="https://github.com/notchkillerAI" style="color: #2980b9;">@notchkillerAI</a></li>
 </ul>
 
