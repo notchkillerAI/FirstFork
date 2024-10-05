@@ -18,9 +18,9 @@ I am Arpan Bhattacharya, I am pursuing a Btech in AI&DS from IIIT Sri City, I lo
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-  <li>I'm a night owl 🌙</li>
-  <li>Podcasts = relaxation 🎧</li>
-  <li>I'm obsessed with VR/AR tech 🌐</li>
+  <li>I am passonate about AI and ML</li>
+  <li>Love to read books</li>
+  <li>Love to travel and explore different culture</li></li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
